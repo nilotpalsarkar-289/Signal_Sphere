@@ -22,12 +22,13 @@ All the notes and explanations are based on the lectures and academic materials 
 * **Dr. Debasish Bera** (PhD, IIT Kharagpur)
 Their contributions are greatly acknowledged, which have been instrumental in shaping the quality and clarity of these learning materials.
 
+###  ✅ Features:
 * 📚 Well-organized course-wise folders
 * 📝 Conceptual notes and summaries
 * 📂 MATLAB/Python-based code implementations (where applicable)
 * 🎓 Ideal for students, hobbyists, and researchers in ECE/CS domains
 
-###  Features:
+
 
 ### 🤝 Contributions:
 
