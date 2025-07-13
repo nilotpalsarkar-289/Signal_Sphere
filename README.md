@@ -18,8 +18,10 @@ This repository is a structured learning hub that contains complete foundational
 
 ### 📌 Special Mentions:
 All the notes and explanations are based on the lectures and academic materials provided by:
+
 * **Dr. Pratik Chakraborty** (PhD, IIT Delhi)
 * **Dr. Debasish Bera** (PhD, IIT Kharagpur)
+  
 Their contributions are greatly acknowledged, which have been instrumental in shaping the quality and clarity of these learning materials.
 
 ###  ✅ Features:
