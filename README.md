@@ -16,13 +16,18 @@ This repository is a structured learning hub that contains complete foundational
 
 ---
 
-### ✅ Features:
+### 📌 Special Mentions:
+All the notes and explanations are based on the lectures and academic materials provided by:
+* **Dr. Pratik Chakraborty** (PhD, IIT Delhi)
+* **Dr. Debasish Bera** (PhD, IIT Kharagpur)
+Their contributions are greatly acknowledged, which have been instrumental in shaping the quality and clarity of these learning materials.
 
 * 📚 Well-organized course-wise folders
 * 📝 Conceptual notes and summaries
 * 📂 MATLAB/Python-based code implementations (where applicable)
 * 🎓 Ideal for students, hobbyists, and researchers in ECE/CS domains
 
+###  Features:
 
 ### 🤝 Contributions:
 
