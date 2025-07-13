@@ -2,10 +2,10 @@
 
 This repository is a structured learning hub that contains complete foundational resources, notes, and implementations for three core areas of signal processing:
 
-### 🧱 Core Modules Included:
+### 🧱 Modules Included:
 
 1. **📘 Signals and Systems:**
-   Learn the fundamentals of continuous and discrete signals, linear time-invariant systems, convolution, Fourier analysis, Laplace and Z-transforms, and system behavior.
+   Learn the fundamentals of continuous and discrete signals, linear time-invariant systems, convolution & correlation, Fourier analysis, Laplace and Z-transforms, and system behavior.
 
 2. **🔍 Signal Theory:**
    Explore the mathematical underpinnings of signal analysis, including probability theory, orthogonality, basis functions, signal space concepts, and optimal signal representation.
