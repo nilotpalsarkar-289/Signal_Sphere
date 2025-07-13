@@ -1,6 +1,6 @@
 # 📊 Signal Sphere
 
-This repository is a structured learning hub that contains complete foundational resources, notes, and implementations for three essential core areas of signal processing:
+This repository is a structured learning hub that contains complete foundational resources, notes, and implementations for three core areas of signal processing:
 
 ### 🧱 Core Modules Included:
 
