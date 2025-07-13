@@ -8,7 +8,7 @@ This repository is a structured learning hub that contains foundational resource
    Learn the fundamentals of continuous and discrete signals, linear time-invariant systems, convolution, Fourier analysis, Laplace and Z-transforms, and system behavior.
 
 2. **🔍 Signal Theory:**
-   Explore the mathematical underpinnings of signal analysis, including orthogonality, basis functions, signal space concepts, and optimal signal representation.
+   Explore the mathematical underpinnings of signal analysis, including probability theory, orthogonality, basis functions, signal space concepts, and optimal signal representation.
 
 3. **📈 Statistical Signal Processing:**
    Dive into probability theory, estimation and detection theory, random processes, and statistical inference techniques used in real-world signal processing applications.
